@@ -49,8 +49,8 @@ To run the application, follow these steps:
 2. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-repo/tiktok-analysis.git
-   cd tiktok-analysis
+   git clone https://github.com/MB-matea/TikTok-analysis.git
+   cd TikTok-analysis
    ```
 
 3. **Install Dependencies:**  
