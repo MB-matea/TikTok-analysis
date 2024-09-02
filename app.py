@@ -107,7 +107,7 @@ if st.button('Pretraži'):
 
 
     # Chart 2 - Create a bar chart to visualize engagement by region
-    st.header('Angažman prema regijama')
+    st.header('Angažman prema državama')
     engagement_by_region = df.groupby('region_code').agg({
         'like_count': 'sum',
         'view_count': 'sum',
